@@ -7,10 +7,12 @@ Bland-Altman analysis, or Bland-Altman plot is a visualization technique for eva
 
 # Differences from T-Test
 One question I had about Bland-Altman analysis is how different it is from the popular T-Test. I can share some of my understanding in this subject, but I could be wrong. Fair warning.
+
 Well, strictly speaking, Bland-Altman is only a visualization, not a hypothesis testing. People using Bland-Altman care about
 1. the bias between (two) measurements, and 
 2. the deviation of the differences between (two) measurements, and
 3. how the deviation of the differences changes with magnitude of the measurements.
+
 With T-Test, people care about 
 1. the bias between (two) measurements, and
 2. the deviation of the **mean difference** between (two) measurements.
