@@ -16,6 +16,7 @@ Well, strictly speaking, Bland-Altman is only a visualization, not a hypothesis 
 With T-Test, people care about 
 1. the bias between (two) measurements, and
 2. the deviation of the **mean difference** between (two) measurements.
+
 The difference in how the deviation is measured should be apparent for those who understand the difference between standard deviation and the standard deviation of the mean. The limitation of T-Test is its assumption that the differences in measurements are centered around 0, without any hidden structure, or non-linearity, whereas Bland-Altman make no such assumption. It show you a visualization.
 
 # How Bland-Altman analysis is done
